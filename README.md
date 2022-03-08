@@ -1,7 +1,7 @@
 ### Olá eu sou o Carlos Eduardo 👋
 
 - 🚀 Estudante de Engenharia de Software pela Universidade Federal do Amazonas
-- 👨‍💻 Habilidades: HTML,CSS,JS
+- 👨‍💻 Habilidades: HTML,CSS,JS,DART
 
 <div>
   <a href="https://github.com/carlosBitzin">
